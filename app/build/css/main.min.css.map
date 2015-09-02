@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.less"],"names":[],"mappings":"AAAA,WAIA,QAHE,MAAA,KAGF,QAEE,gBAAA","file":"main.min.css","sourcesContent":[".blue-text {\n  color: #00f;\n}\n\n.header {\n  .blue-text;\n  text-decoration: underline;\n}\n"],"sourceRoot":"/source/"}
