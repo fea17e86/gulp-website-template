@@ -14,7 +14,6 @@
     "webapp"
   ],
   "author": "fea17e86",
-  "license": "BSD-2-Clause",
   "devDependencies": {
     "gulp-load-plugins": "~1.0.0-rc.1",
     "gulp": "~3.9.0",
